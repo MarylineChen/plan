@@ -8,7 +8,7 @@
   - Glissez déposez le bouton "Install" depuis votre navigateur dans votre logiciel Eclipse
   - Suivez les instructions à l'écran.
 - Installer le formatteur de code du groupe dans Eclipse
-  - Télécharger le fichier [BUSY_CHESS_FORMATTER.xml](http://google.com)
+  - Télécharger le fichier [BUSY_CHESS_FORMATTER.xml](https://github.com/busychess/plan/blob/master/BUSY_CHESS_FORMATTER.xml)
   - Dans Eclipse aller dans les préférences (Alt+W puis P sur Windows, Command + , sur mac)
   - Naviguer vers Java > Code Style > Formatter
   - Cliquer sur "Import" et sélectionner le fichier téléchargé
